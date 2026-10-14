@@ -19,6 +19,7 @@ I have been a consistent user of pomodoro method, however most pomodoro timers o
 
   ● Each session is framed as brewing a cup of tea of your choice (Mocha Brew:25 minute study session, Espresso:15 minute study session and a long 45 minute Chai brew session) <br>
   > I have also created a 30 second demo preset to test out the app!
+
   ● I'm someone that struggles with having 100+ tabs and this application avoids further browser clutter and exists in your terminal! <br>
   
 
