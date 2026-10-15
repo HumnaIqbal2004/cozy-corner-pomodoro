@@ -46,8 +46,7 @@ I have been a consistent user of pomodoro method, however most pomodoro timers o
 
   ● **Step 1** Clone the Repository
 
-  ● **Step 2** Run the application
-  python3 cozy_cafe.py
+  ● **Step 2** Run the application (python3 cozy_cafe.py)
 
   ● **Step 3** To preview the focus timer go ahead and run the Quick Sip(DEMO) session. Enjoy!
   
